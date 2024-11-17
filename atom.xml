@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yx666-robot.github.io</id>
     <title>yx666</title>
-    <updated>2024-11-17T06:02:49.751Z</updated>
+    <updated>2024-11-17T06:11:18.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yx666-robot.github.io"/>
     <link rel="self" href="https://yx666-robot.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>胜不骄，败不馁</subtitle>
     <logo>https://yx666-robot.github.io/images/avatar.png</logo>
     <icon>https://yx666-robot.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, yx666</rights>
