@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yx666-robot.github.io</id>
+    <title>yx666</title>
+    <updated>2024-12-14T04:35:40.491Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yx666-robot.github.io"/>
+    <link rel="self" href="https://yx666-robot.github.io/atom.xml"/>
+    <subtitle>胜不骄，败不馁</subtitle>
+    <logo>https://yx666-robot.github.io/images/avatar.png</logo>
+    <icon>https://yx666-robot.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, yx666</rights>
+    <entry>
+        <title type="html"><![CDATA[因式分解]]></title>
+        <id>https://yx666-robot.github.io/post/yin-shi-fen-jie/</id>
+        <link href="https://yx666-robot.github.io/post/yin-shi-fen-jie/">
+        </link>
+        <updated>2024-12-14T04:28:37.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[说明议论综合]]></title>
+        <id>https://yx666-robot.github.io/post/shuo-ming-yi-lun-zong-he/</id>
+        <link href="https://yx666-robot.github.io/post/shuo-ming-yi-lun-zong-he/">
+        </link>
+        <updated>2024-12-14T04:28:17.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数学板子]]></title>
+        <id>https://yx666-robot.github.io/post/shu-xue-ban-zi/</id>
+        <link href="https://yx666-robot.github.io/post/shu-xue-ban-zi/">
+        </link>
+        <updated>2024-12-14T04:27:55.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[集合与逻辑]]></title>
+        <id>https://yx666-robot.github.io/post/ji-he-yu-luo-ji/</id>
+        <link href="https://yx666-robot.github.io/post/ji-he-yu-luo-ji/">
+        </link>
+        <updated>2024-12-14T04:27:23.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[极限]]></title>
+        <id>https://yx666-robot.github.io/post/ji-xian/</id>
+        <link href="https://yx666-robot.github.io/post/ji-xian/">
+        </link>
+        <updated>2024-12-14T04:20:11.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://yx666-robot.github.io/post/hello-world/</id>
+        <link href="https://yx666-robot.github.io/post/hello-world/">
+        </link>
+        <updated>2024-11-17T04:17:28.000Z</updated>
+    </entry>
+</feed>
